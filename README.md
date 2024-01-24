@@ -13,7 +13,7 @@ To use the English Proficiency Evaluator, you need Python installed on your syst
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/english-evaluator.git
+   git clone https://github.com/xixas/english-evaluator.git
    cd english-evaluator
    ```
 
